@@ -1,5 +1,9 @@
 #include "monty.h"
+
+char **op_toks = NULL;
+
 /**
+ * main - main function
  * @argc: Count of arguments passed to the program
  * @argv: Pointer to an array of char pointers to arguments
  *
