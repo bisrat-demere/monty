@@ -137,4 +137,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Author
-* **Dominic Samo** - (https://github.com/DominicSamoes)
+* **Bisrat Demere ** - (https://github.com/bisrat-demere)
+* **Beza Abera ** - (https://github.com/BezaB10)
